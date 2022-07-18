@@ -14,8 +14,6 @@ Requisitos:
   
  Inicializar:
     No Spring tool importar o projeto atraves do maven, selecionar projeto existente e localizar a pasta do projeto;
-    Localizar o arquivo application.properties dentro da pasta src/main/resources e deletar ${TWILIO_SID}, ${TWILIO_KEY}, ${TWILIO_PHONE_FROM} e ${TWILIO_PHONE_TO}
-  colocando respectivamente seu twilio Sid, twilio key, twilio phone number e o seu telefone acrescentando o codigo do pais no caso do brasil +55, DDD e o numero.
     No campo boot dashboard espandir o icone local e clicar com o botão direito na pasta dsmeta e clicar em (re)start para iniciar o back-end.
     Localizar a pasta front-end do projeto, executar nela o gitbash e utilizar o comando yarn dev.
     
